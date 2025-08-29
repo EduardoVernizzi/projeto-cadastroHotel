@@ -1,0 +1,14 @@
+C:\Users\eduar\OneDrive\Área de Trabalho\bootcamp-dio-avanade\trilha-net-explorando-desafio\bin\Debug\net8.0\trilha-net-explorando-desafio.exe
+C:\Users\eduar\OneDrive\Área de Trabalho\bootcamp-dio-avanade\trilha-net-explorando-desafio\bin\Debug\net8.0\trilha-net-explorando-desafio.deps.json
+C:\Users\eduar\OneDrive\Área de Trabalho\bootcamp-dio-avanade\trilha-net-explorando-desafio\bin\Debug\net8.0\trilha-net-explorando-desafio.runtimeconfig.json
+C:\Users\eduar\OneDrive\Área de Trabalho\bootcamp-dio-avanade\trilha-net-explorando-desafio\bin\Debug\net8.0\trilha-net-explorando-desafio.dll
+C:\Users\eduar\OneDrive\Área de Trabalho\bootcamp-dio-avanade\trilha-net-explorando-desafio\bin\Debug\net8.0\trilha-net-explorando-desafio.pdb
+C:\Users\eduar\OneDrive\Área de Trabalho\bootcamp-dio-avanade\trilha-net-explorando-desafio\obj\Debug\net8.0\trilha-net-explorando-desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\OneDrive\Área de Trabalho\bootcamp-dio-avanade\trilha-net-explorando-desafio\obj\Debug\net8.0\trilha-net-explorando-desafio.AssemblyInfoInputs.cache
+C:\Users\eduar\OneDrive\Área de Trabalho\bootcamp-dio-avanade\trilha-net-explorando-desafio\obj\Debug\net8.0\trilha-net-explorando-desafio.AssemblyInfo.cs
+C:\Users\eduar\OneDrive\Área de Trabalho\bootcamp-dio-avanade\trilha-net-explorando-desafio\obj\Debug\net8.0\trilha-net-explorando-desafio.csproj.CoreCompileInputs.cache
+C:\Users\eduar\OneDrive\Área de Trabalho\bootcamp-dio-avanade\trilha-net-explorando-desafio\obj\Debug\net8.0\trilha-net-explorando-desafio.dll
+C:\Users\eduar\OneDrive\Área de Trabalho\bootcamp-dio-avanade\trilha-net-explorando-desafio\obj\Debug\net8.0\refint\trilha-net-explorando-desafio.dll
+C:\Users\eduar\OneDrive\Área de Trabalho\bootcamp-dio-avanade\trilha-net-explorando-desafio\obj\Debug\net8.0\trilha-net-explorando-desafio.pdb
+C:\Users\eduar\OneDrive\Área de Trabalho\bootcamp-dio-avanade\trilha-net-explorando-desafio\obj\Debug\net8.0\trilha-net-explorando-desafio.genruntimeconfig.cache
+C:\Users\eduar\OneDrive\Área de Trabalho\bootcamp-dio-avanade\trilha-net-explorando-desafio\obj\Debug\net8.0\ref\trilha-net-explorando-desafio.dll
