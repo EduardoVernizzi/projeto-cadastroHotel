@@ -8,7 +8,7 @@ Permite cadastrar quarto de hotél, fazer reservas exibindo o valor total ao fin
 ## 💻 Tecnologias
 
 - C#  
-- .NET 6 (ou versão que você estiver usando)  
+- .NET 8  
 
 ---
 
