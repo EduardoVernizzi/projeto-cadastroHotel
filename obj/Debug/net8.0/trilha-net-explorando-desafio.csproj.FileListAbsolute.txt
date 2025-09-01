@@ -12,3 +12,4 @@ C:\Users\eduar\OneDrive\Área de Trabalho\bootcamp-dio-avanade\trilha-net-explor
 C:\Users\eduar\OneDrive\Área de Trabalho\bootcamp-dio-avanade\trilha-net-explorando-desafio\obj\Debug\net8.0\trilha-net-explorando-desafio.pdb
 C:\Users\eduar\OneDrive\Área de Trabalho\bootcamp-dio-avanade\trilha-net-explorando-desafio\obj\Debug\net8.0\trilha-net-explorando-desafio.genruntimeconfig.cache
 C:\Users\eduar\OneDrive\Área de Trabalho\bootcamp-dio-avanade\trilha-net-explorando-desafio\obj\Debug\net8.0\ref\trilha-net-explorando-desafio.dll
+C:\Users\eduar\OneDrive\Área de Trabalho\bootcamp-dio-avanade\trilha-net-explorando-desafio\obj\Debug\net8.0\trilha-net-explorando-desafio.sourcelink.json

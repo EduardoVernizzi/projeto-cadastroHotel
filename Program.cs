@@ -7,20 +7,20 @@ using trilha_net_explorando_desafio.Models;
 Console.OutputEncoding = Encoding.UTF8;
 
 List<Pessoa> hospedes = new List<Pessoa>();
-Suite suite = new Suite();
 
-Pessoa p1 = new Pessoa();
-Pessoa p2 = new Pessoa();
+Suite suite = new Suite();
 
 int escolha = 0;
 
 while (true)
 {
-  Console.WriteLine("Bem vindo ao sistema do Maceió Mar Resort!");
-  Console.WriteLine("Escolha uma opção: ");
-  Console.WriteLine("1 - Fazer Reserva ");
-  Console.WriteLine("2 - Cadastrar Suíte ");
-  Console.WriteLine("3 - Encerrar Sistema ");
+  Console.WriteLine("""
+                    Bem vindo ao sistema do Maceió Mar Resort!
+                    Escolha uma opção: 
+                    1 - Fazer Reserva
+                    2 - Cadastrar Suíte 
+                    3 - Encerrar Sistema
+                    """);
   escolha = Convert.ToInt32(Console.ReadLine());
 
   switch (escolha)
@@ -41,14 +41,13 @@ while (true)
       contador = Convert.ToInt32(Console.ReadLine());
       Console.WriteLine("Digite a quantidade de dias: ");
       int dias = Convert.ToInt32(Console.ReadLine());
-      
+
 
       hospedes.Clear();
 
       for (int i = 0; i < contador; i++)
       {
         Pessoa pessoa = new Pessoa();
-
         Console.WriteLine($"Digite o nome do hóspede {i + 1}: ");
         pessoa.Nome = Console.ReadLine();
 
@@ -74,6 +73,7 @@ while (true)
       break;
 
     case 2:
+
       Console.Clear();
 
       suite.Capacidade = 0;
